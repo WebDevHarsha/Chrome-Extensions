@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name":"Quotes",
+    "version": "1.0.0",
+    "description":"An extension which gives you quotes",
+    "author":"Sri Harsha",
+    "action":{
+        "default_popup":"index.html",
+        "defauly_title":"Quotes"
+    }
+}
